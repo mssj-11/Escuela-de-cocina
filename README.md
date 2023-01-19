@@ -1,1 +1,5 @@
-# Escuela-de-cocina
+#   Escuela de cocina
+
+<p aling="center">
+    <img src="preview.png" alt="">
+</p>
